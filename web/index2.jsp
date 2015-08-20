@@ -11,9 +11,42 @@
     <title></title>
 </head>
 <body>
-To push changes
+<h1>
+  福原希己江(후쿠하라 키미에) - なかないで(울지마)
+</h1>
 
-is dialog box silently, select the Remember the update method choice and silently update in future check box.
-After you leave the dialog box, the Auto-update if push ... rejected check box in the Git page of the Settings dialog box is selected and the applied update method becomes default. To change this setting, clear the Auto-update if push ... rejected check box.
+あなたの涙は 青い星のような
+水をたたえる海に やがて帰るでしょ
+당신의 눈물은 푸르른 별같은
+물이 차오른 바다에 결국은 돌아가는거겠죠
+
+あなたの心は あの山の雪のように
+深く積もり とだされているのでしょ
+당신의 마음은 저 산의 눈같이
+깊게쌓여 잠겨가고있는거겠죠
+
+切ない 思いは あの山に
+聞いて もらえば いいから
+なかないで
+안타까운 마음은 저 산에게
+들어달라고하면 되니까
+울지마
+
+愛しい 気持ちは あの月に
+歌って 聞かせれば いいから
+なかないで
+사랑스런 기분은 저 달에게
+노래불러 들려주면 되니까
+울지마
+
+あなたの 声は 鳥の 歌のような
+春の もやまに 響き 渡るでしょ
+당신의 목소리는 새의 노래같이
+봄의 산에 메아릴 전하는거겠죠
+
+あなたの笑顔は あの夏のひまわりのよう
+日の光とともに 輝いているのでしょ
+당신의 미소는 저 여름의 백합인듯
+햇살과 다름없이 빛나고있는거겠죠
 </body>
 </html>
